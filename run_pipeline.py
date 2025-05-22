@@ -1,28 +1,27 @@
 # run_pipeline.py
+
+import json
 from script_utils.pdf_extractor import extract_text_from_pdf
 from script_utils.parser import parse_screenplay
-from script_utils.ner_tagger import extract_entities
-from script_utils.scheduler import create_schedule
-from script_utils.call_sheet_generator import generate_call_sheets
-import json
+from script_utils.scheduler import generate_schedule
 
-pdf_path = "LM.pdf"
-text = extract_text_from_pdf(pdf_path)
-scenes = parse_screenplay(text)
+# 1. Extract text from screenplay PDF
+pdf_path = "data/LM.pdf"  # Make sure LM.pdf is inside the /data/ folder
+script_text = extract_text_from_pdf(pdf_path)
 
-# Enrich with props/equipment
-for scene in scenes:
-    scene["props"] = extract_entities(scene["description"])
-    scene["equipment"] = ["Camera", "Lighting Kit"]  # Hardcoded or inferred later
+# 2. Parse scenes from the script text
+scenes = parse_screenplay(script_text)
 
-with open("output/parsed_script.json", "w") as f:
+# 3. Save parsed scenes
+with open("output/parsed_script.json", "w", encoding="utf-8") as f:
     json.dump(scenes, f, indent=2)
 
-schedule = create_schedule(scenes)
-with open("output/shooting_schedule.json", "w") as f:
+# 4. Generate shooting schedule
+schedule = generate_schedule(scenes)
+
+# 5. Save schedule
+with open("output/shooting_schedule.json", "w", encoding="utf-8") as f:
     json.dump(schedule, f, indent=2)
 
-call_sheets = generate_call_sheets(schedule)
-for day, data in call_sheets.items():
-    with open(f"output/call_sheets/day_{day}.json", "w") as f:
-        json.dump(data, f, indent=2)
+print("✅ Parsed scenes saved to output/parsed_script.json")
+print("✅ Shooting schedule saved to output/shooting_schedule.json")

@@ -1,0 +1,708 @@
+[
+  {
+    "day": 1,
+    "start_time": "08:00",
+    "scene_heading": "1B.INT. DARK HALLWAY. NIGHT.                             1B",
+    "location": "DARK HALLWAY. NIGHT.                             1B",
+    "time_of_day": "UNKNOWN",
+    "characters": [],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 1,
+    "start_time": "09:00",
+    "scene_heading": "1.INT. DARK ROOM. NIGHT.                                  1",
+    "location": "DARK ROOM. NIGHT.                                  1",
+    "time_of_day": "UNKNOWN",
+    "characters": [],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 1,
+    "start_time": "10:00",
+    "scene_heading": "1A.EXT. EMPTY OPEN GROUND. DAY.                           1A",
+    "location": "EMPTY OPEN GROUND. DAY.                           1A",
+    "time_of_day": "UNKNOWN",
+    "characters": [],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 1,
+    "start_time": "11:00",
+    "scene_heading": "2A.INT. PSY ROOM. DAY                                     2A",
+    "location": "PSY ROOM. DAY                                     2A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "DR. ANJALI"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 1,
+    "start_time": "12:00",
+    "scene_heading": "2D.INT. PSY ROOM. DAY                                     2D",
+    "location": "PSY ROOM. DAY                                     2D",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "DR. ANJALI",
+      "KARAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 1,
+    "start_time": "14:00",
+    "scene_heading": "2E.INT. PSY ROOM. DAY                                    2E",
+    "location": "PSY ROOM. DAY                                    2E",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 1,
+    "start_time": "15:00",
+    "scene_heading": "2C. INT. PSY ROOM. DAY                                   2C",
+    "location": "PSY ROOM. DAY                                   2C",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "DR. ANJALI",
+      "KARAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 2,
+    "start_time": "08:00",
+    "scene_heading": "2.INT. PSY ROOM. DAY.                                     2",
+    "location": "PSY ROOM. DAY.                                     2",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "DR. ANJALI",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 2,
+    "start_time": "10:00",
+    "scene_heading": "2F.INT. PSY ROOM. DAY.                                    2F",
+    "location": "PSY ROOM. DAY.                                    2F",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "DR. ANJALI",
+      "KARAN",
+      "NIHARIKA",
+      "FERNANDEZ",
+      "GUY"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 2,
+    "start_time": "12:00",
+    "scene_heading": "2B.INT. PSY ROOM. DAY.                                   2B",
+    "location": "PSY ROOM. DAY.                                   2B",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "DR. ANJALI",
+      "KARAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 2,
+    "start_time": "14:00",
+    "scene_heading": "2G.INT. PSY ROOM. DAY.                                   2G",
+    "location": "PSY ROOM. DAY.                                   2G",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "DR. ANJALI",
+      "THE END.",
+      "AKASH",
+      "NIHARIKA",
+      "ARYAN",
+      "GUY"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 2,
+    "start_time": "16:00",
+    "scene_heading": "3.EXT. OPEN AREA 1. DAY                                  3",
+    "location": "OPEN AREA 1. DAY                                  3",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 2,
+    "start_time": "17:00",
+    "scene_heading": "3A.EXT. OPEN AREA 1. DAY                                  3A",
+    "location": "OPEN AREA 1. DAY                                  3A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ARYAN",
+      "KARAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "08:00",
+    "scene_heading": "4.EXT. OPEN AREA 2. DAY                                  4",
+    "location": "OPEN AREA 2. DAY                                  4",
+    "time_of_day": "UNKNOWN",
+    "characters": [],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "09:00",
+    "scene_heading": "5.INT. OPEN AREA 1. 5 PM.                                 5",
+    "location": "OPEN AREA 1. 5 PM.                                 5",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ARYAN",
+      "KARAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "10:00",
+    "scene_heading": "5A.INT. OPEN AREA 1. 5:30.                                5A",
+    "location": "OPEN AREA 1. 5:30.                                5A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ARYAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "11:00",
+    "scene_heading": "6.INT. HIS HOUSE. EVENING                                  6",
+    "location": "HIS HOUSE. EVENING                                  6",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "12:00",
+    "scene_heading": "7.EXT. PARTY HOUSE. 5:40                                   7",
+    "location": "PARTY HOUSE. 5:40                                   7",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "14:00",
+    "scene_heading": "8.I/E. PARTY HOUSE ENTRY (PARTY HOUSE). 7:10              8",
+    "location": "UNKNOWN",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "AKASH",
+      "VEDANT",
+      "WREHAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 3,
+    "start_time": "16:00",
+    "scene_heading": "9.INT. HALL (ALL PARTS). NIGHT.                            9",
+    "location": "HALL (ALL PARTS). NIGHT.                            9",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN",
+      "ARYAN",
+      "KARAN",
+      "AKASH",
+      "VEDANT",
+      "MALLORY",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 4,
+    "start_time": "08:00",
+    "scene_heading": "10.INT. HALL. NIGHT.                                      10",
+    "location": "HALL. NIGHT.                                      10",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "AKASH",
+      "KARAN",
+      "MALLORY",
+      "ARYAN",
+      "VEDANT",
+      "WREHAN",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 4,
+    "start_time": "10:00",
+    "scene_heading": "10A.INT. HALL. NIGHT.                                    10A",
+    "location": "HALL. NIGHT.                                    10A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "ARYAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 4,
+    "start_time": "11:00",
+    "scene_heading": "11.INT. KITCHEN. NIGHT                                    11",
+    "location": "KITCHEN. NIGHT                                    11",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "NIHARIKA",
+      "AKASH"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 4,
+    "start_time": "14:00",
+    "scene_heading": "12.INT. HALL OR KITCHEN. NIGHT.                           12",
+    "location": "HALL OR KITCHEN. NIGHT.                           12",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "ARYAN",
+      "NIHARIKA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 4,
+    "start_time": "16:00",
+    "scene_heading": "13.INT. HALL. NIGHT                                       13",
+    "location": "HALL. NIGHT                                       13",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ARYAN",
+      "MALLORY",
+      "AKASH",
+      "KARAN",
+      "SUHANI",
+      "WREHAN",
+      "ALICIA",
+      "VEDANT",
+      "NIHARIKA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 5,
+    "start_time": "08:00",
+    "scene_heading": "14.EXT. TOP TERRACE. NIGHT                                14",
+    "location": "TOP TERRACE. NIGHT                                14",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ARYAN",
+      "AKASH",
+      "WREHAN",
+      "MALLORY",
+      "KARAN",
+      "VEDANT",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 5,
+    "start_time": "10:00",
+    "scene_heading": "15A.INT. HALL OTHER PART. NIGHT                          15A",
+    "location": "HALL OTHER PART. NIGHT                          15A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN",
+      "KARAN",
+      "NIHARIKA",
+      "ARYAN",
+      "SHUBHAM"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 5,
+    "start_time": "12:00",
+    "scene_heading": "15.INT. HALL. NIGHT                                      15",
+    "location": "HALL. NIGHT                                      15",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "SHUBHAM",
+      "KARAN",
+      "ARYAN",
+      "RUPAK",
+      "VASU",
+      "AKASH",
+      "SUHANI",
+      "VEDANT",
+      "WREHAN",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 5,
+    "start_time": "14:00",
+    "scene_heading": "15B.INT. HALL. NIGHT.                                    15B",
+    "location": "HALL. NIGHT.                                    15B",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "SHUBHAM",
+      "KARAN",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 5,
+    "start_time": "16:00",
+    "scene_heading": "16.INT. KITCHEN. NIGHT                                   16",
+    "location": "KITCHEN. NIGHT                                   16",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "ARYAN",
+      "WREHAN",
+      "NIHARIKA",
+      "SHUBHAM"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 6,
+    "start_time": "08:00",
+    "scene_heading": "17.INT. HALL. NIGHT                                       17",
+    "location": "HALL. NIGHT                                       17",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "SHUBHAM",
+      "ALICIA",
+      "VASU",
+      "MALLORY",
+      "RUPAK"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 6,
+    "start_time": "10:00",
+    "scene_heading": "18.INT. TERRACE. NIGHT                                    18",
+    "location": "TERRACE. NIGHT                                    18",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ALICIA",
+      "MALLORY",
+      "ARYAN",
+      "KARAN",
+      "NIHARIKA",
+      "RUPAK",
+      "VEDANT"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 6,
+    "start_time": "12:00",
+    "scene_heading": "19.INT. HALL. NIGHT                                      19",
+    "location": "HALL. NIGHT                                      19",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "SHUBHAM",
+      "VASU",
+      "KARAN",
+      "NIHARIKA",
+      "VEDANT",
+      "WREHAN",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 6,
+    "start_time": "14:00",
+    "scene_heading": "19A.INT. HALL. NIGHT                                     19A",
+    "location": "HALL. NIGHT                                     19A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN",
+      "SHUBHAM",
+      "RUPAK",
+      "KARAN",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 6,
+    "start_time": "16:00",
+    "scene_heading": "19B.INT. HALL. NIGHT                                     19B",
+    "location": "HALL. NIGHT                                     19B",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "SHUBHAM",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 7,
+    "start_time": "08:00",
+    "scene_heading": "20.INT. ROOM 1. NIGHT                                    20",
+    "location": "ROOM 1. NIGHT                                    20",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "SUHANI",
+      "AKASH",
+      "VASU"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 7,
+    "start_time": "10:00",
+    "scene_heading": "21A.INT. SECRET ROOM. NIGHT                              21A",
+    "location": "SECRET ROOM. NIGHT                              21A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ALICIA",
+      "WREHAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 7,
+    "start_time": "11:00",
+    "scene_heading": "21.INT. SECRET ROOM. NIGHT.                              21",
+    "location": "SECRET ROOM. NIGHT.                              21",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN",
+      "ALICIA",
+      "AKASH",
+      "ARYAN",
+      "SHUBHAM"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 7,
+    "start_time": "14:00",
+    "scene_heading": "21B.INT. SECRET ROOM. NIGHT.                             21B",
+    "location": "SECRET ROOM. NIGHT.                             21B",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN",
+      "ALICIA",
+      "SHUBHAM"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 7,
+    "start_time": "16:00",
+    "scene_heading": "22.INT. HALL. NIGHT                                       22",
+    "location": "HALL. NIGHT                                       22",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "SHUBHAM",
+      "ALICIA"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 8,
+    "start_time": "08:00",
+    "scene_heading": "22A.INT. HALL. NIGHT                                     22A",
+    "location": "HALL. NIGHT                                     22A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "KARAN",
+      "SHUBHAM",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 8,
+    "start_time": "10:00",
+    "scene_heading": "23.INT. HALL. NIGHT.                                     23",
+    "location": "HALL. NIGHT.                                     23",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 8,
+    "start_time": "11:00",
+    "scene_heading": "24.INT. ROOM 1. NIGHT.                                   24",
+    "location": "ROOM 1. NIGHT.                                   24",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "AKASH",
+      "SUHANI"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 8,
+    "start_time": "12:00",
+    "scene_heading": "25.INT. SECRET ROOM. NIGHT.                              25",
+    "location": "SECRET ROOM. NIGHT.                              25",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "ALICIA",
+      "SHUBHAM",
+      "MALLORY",
+      "KARAN",
+      "VEDANT",
+      "ARYAN",
+      "AKASH",
+      "RUPAK",
+      "WREHAN",
+      "SUHANI",
+      "VASU"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 8,
+    "start_time": "14:00",
+    "scene_heading": "26.INT. LIFT. NIGHT.                                     26",
+    "location": "LIFT. NIGHT.                                     26",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "GUY"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 8,
+    "start_time": "15:00",
+    "scene_heading": "27.EXT. PARKING. NIGHT.                                  27",
+    "location": "PARKING. NIGHT.                                  27",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "WREHAN",
+      "VEDANT",
+      "KARAN",
+      "SHUBHAM",
+      "GUY",
+      "RUPAK",
+      "FERNANDEZ",
+      "VASU",
+      "ARYAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 9,
+    "start_time": "08:00",
+    "scene_heading": "27A.EXT. PARKING. NIGHT.                                 27A",
+    "location": "PARKING. NIGHT.                                 27A",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "FERNANDEZ",
+      "WREHAN",
+      "KARAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 9,
+    "start_time": "10:00",
+    "scene_heading": "28.INT. TOILET. NIGHT.                                    28",
+    "location": "TOILET. NIGHT.                                    28",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "SUHANI"
+    ],
+    "estimated_duration": "1 hour(s)"
+  },
+  {
+    "day": 9,
+    "start_time": "11:00",
+    "scene_heading": "29.INT. TOILET. NIGHT.                                   29",
+    "location": "TOILET. NIGHT.                                   29",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "NIHARIKA",
+      "FERNANDEZ",
+      "KARAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 9,
+    "start_time": "14:00",
+    "scene_heading": "30.INT. KITCHEN. NIGHT                                   30",
+    "location": "KITCHEN. NIGHT                                   30",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "NIHARIKA",
+      "AKASH",
+      "ARYAN",
+      "KARAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 9,
+    "start_time": "16:00",
+    "scene_heading": "31.INT. ROOM 2. NIGHT.                                   31",
+    "location": "ROOM 2. NIGHT.                                   31",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "NIHARIKA",
+      "AKASH",
+      "KARAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  },
+  {
+    "day": 10,
+    "start_time": "08:00",
+    "scene_heading": "32.INT. HALL. NIGHT.                                     32",
+    "location": "HALL. NIGHT.                                     32",
+    "time_of_day": "UNKNOWN",
+    "characters": [
+      "MALLORY",
+      "NIHARIKA",
+      "AKASH",
+      "KARAN"
+    ],
+    "estimated_duration": "2 hour(s)"
+  }
+]

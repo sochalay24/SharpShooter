@@ -4,9 +4,7 @@
     "heading": "1.INT. DARK ROOM. NIGHT.                                  1",
     "location": "DARK ROOM. NIGHT.                                  1",
     "time_of_day": "UNKNOWN",
-    "characters": [
-      "BEAT."
-    ]
+    "characters": []
   },
   {
     "scene_number": 2,
@@ -20,9 +18,7 @@
     "heading": "1B.INT. DARK HALLWAY. NIGHT.                             1B",
     "location": "DARK HALLWAY. NIGHT.                             1B",
     "time_of_day": "UNKNOWN",
-    "characters": [
-      "THE BEEPING STOPS."
-    ]
+    "characters": []
   },
   {
     "scene_number": 4,
@@ -31,7 +27,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "KARAN",
-      "DR. ANJALI"
+      "DR. ANJALI",
+      "ARYAN"
     ]
   },
   {
@@ -71,7 +68,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "DR. ANJALI",
-      "KARAN"
+      "KARAN",
+      "ARYAN"
     ]
   },
   {
@@ -88,7 +86,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "DR. ANJALI",
-      "KARAN"
+      "KARAN",
+      "ARYAN"
     ]
   },
   {
@@ -106,14 +105,18 @@
     "heading": "6.INT. HIS HOUSE. EVENING                                  6",
     "location": "HIS HOUSE. EVENING                                  6",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "KARAN"
+    ]
   },
   {
     "scene_number": 13,
     "heading": "5A.INT. OPEN AREA 1. 5:30.                                5A",
     "location": "OPEN AREA 1. 5:30.                                5A",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "ARYAN"
+    ]
   },
   {
     "scene_number": 14,
@@ -123,7 +126,7 @@
     "characters": [
       "DR. ANJALI",
       "KARAN",
-      "BEAT."
+      "ARYAN"
     ]
   },
   {
@@ -153,7 +156,8 @@
     "characters": [
       "AKASH",
       "VEDANT",
-      "WREHAN"
+      "WREHAN",
+      "ARYAN"
     ]
   },
   {
@@ -176,7 +180,15 @@
     "heading": "10.INT. HALL. NIGHT.                                      10",
     "location": "HALL. NIGHT.                                      10",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "AKASH",
+      "KARAN",
+      "MALLORY",
+      "ARYAN",
+      "VEDANT",
+      "WREHAN",
+      "ALICIA"
+    ]
   },
   {
     "scene_number": 20,
@@ -186,7 +198,6 @@
     "characters": [
       "KARAN",
       "NIHARIKA",
-      "BEAT.",
       "AKASH"
     ]
   },
@@ -207,7 +218,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "KARAN",
-      "ARYAN"
+      "ARYAN",
+      "NIHARIKA"
     ]
   },
   {
@@ -223,7 +235,8 @@
       "SUHANI",
       "WREHAN",
       "ALICIA",
-      "VEDANT"
+      "VEDANT",
+      "NIHARIKA"
     ]
   },
   {
@@ -237,7 +250,8 @@
       "WREHAN",
       "MALLORY",
       "KARAN",
-      "VEDANT"
+      "VEDANT",
+      "ALICIA"
     ]
   },
   {
@@ -250,7 +264,12 @@
       "KARAN",
       "ARYAN",
       "RUPAK",
-      "VASU"
+      "VASU",
+      "AKASH",
+      "SUHANI",
+      "VEDANT",
+      "WREHAN",
+      "ALICIA"
     ]
   },
   {
@@ -260,7 +279,10 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "WREHAN",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA",
+      "ARYAN",
+      "SHUBHAM"
     ]
   },
   {
@@ -270,7 +292,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "SHUBHAM",
-      "KARAN"
+      "KARAN",
+      "ALICIA"
     ]
   },
   {
@@ -280,7 +303,10 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "KARAN",
-      "ARYAN"
+      "ARYAN",
+      "WREHAN",
+      "NIHARIKA",
+      "SHUBHAM"
     ]
   },
   {
@@ -290,7 +316,10 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "SHUBHAM",
-      "ALICIA"
+      "ALICIA",
+      "VASU",
+      "MALLORY",
+      "RUPAK"
     ]
   },
   {
@@ -304,7 +333,8 @@
       "ARYAN",
       "KARAN",
       "NIHARIKA",
-      "RUPAK"
+      "RUPAK",
+      "VEDANT"
     ]
   },
   {
@@ -314,7 +344,12 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "SHUBHAM",
-      "VASU"
+      "VASU",
+      "KARAN",
+      "NIHARIKA",
+      "VEDANT",
+      "WREHAN",
+      "ALICIA"
     ]
   },
   {
@@ -324,7 +359,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "SUHANI",
-      "AKASH"
+      "AKASH",
+      "VASU"
     ]
   },
   {
@@ -336,7 +372,8 @@
       "WREHAN",
       "SHUBHAM",
       "RUPAK",
-      "KARAN"
+      "KARAN",
+      "ALICIA"
     ]
   },
   {
@@ -346,7 +383,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "KARAN",
-      "SHUBHAM"
+      "SHUBHAM",
+      "ALICIA"
     ]
   },
   {
@@ -356,7 +394,10 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "WREHAN",
-      "ALICIA"
+      "ALICIA",
+      "AKASH",
+      "ARYAN",
+      "SHUBHAM"
     ]
   },
   {
@@ -366,7 +407,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "KARAN",
-      "SHUBHAM"
+      "SHUBHAM",
+      "ALICIA"
     ]
   },
   {
@@ -376,8 +418,7 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "ALICIA",
-      "WREHAN",
-      "BEAT."
+      "WREHAN"
     ]
   },
   {
@@ -387,7 +428,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "KARAN",
-      "SHUBHAM"
+      "SHUBHAM",
+      "ARYAN"
     ]
   },
   {
@@ -406,14 +448,19 @@
     "heading": "23.INT. HALL. NIGHT.                                     23",
     "location": "HALL. NIGHT.                                     23",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "WREHAN"
+    ]
   },
   {
     "scene_number": 41,
     "heading": "24.INT. ROOM 1. NIGHT.                                   24",
     "location": "ROOM 1. NIGHT.                                   24",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "AKASH",
+      "SUHANI"
+    ]
   },
   {
     "scene_number": 42,
@@ -429,7 +476,6 @@
       "ARYAN",
       "AKASH",
       "RUPAK",
-      "PHAR MANHATTAN DAKHAVTI SWATALA.",
       "WREHAN",
       "SUHANI",
       "VASU"
@@ -440,7 +486,9 @@
     "heading": "26.INT. LIFT. NIGHT.                                     26",
     "location": "LIFT. NIGHT.                                     26",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "GUY"
+    ]
   },
   {
     "scene_number": 44,
@@ -464,7 +512,9 @@
     "heading": "28.INT. TOILET. NIGHT.                                    28",
     "location": "TOILET. NIGHT.                                    28",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "SUHANI"
+    ]
   },
   {
     "scene_number": 46,
@@ -472,7 +522,9 @@
     "location": "PARKING. NIGHT.                                 27A",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "FERNANDEZ"
+      "FERNANDEZ",
+      "WREHAN",
+      "KARAN"
     ]
   },
   {
@@ -480,7 +532,11 @@
     "heading": "29.INT. TOILET. NIGHT.                                   29",
     "location": "TOILET. NIGHT.                                   29",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "NIHARIKA",
+      "FERNANDEZ",
+      "KARAN"
+    ]
   },
   {
     "scene_number": 48,
@@ -489,7 +545,10 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "DR. ANJALI",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA",
+      "FERNANDEZ",
+      "GUY"
     ]
   },
   {
@@ -497,21 +556,35 @@
     "heading": "30.INT. KITCHEN. NIGHT                                   30",
     "location": "KITCHEN. NIGHT                                   30",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "NIHARIKA",
+      "AKASH",
+      "ARYAN",
+      "KARAN"
+    ]
   },
   {
     "scene_number": 50,
     "heading": "31.INT. ROOM 2. NIGHT.                                   31",
     "location": "ROOM 2. NIGHT.                                   31",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "NIHARIKA",
+      "AKASH",
+      "KARAN"
+    ]
   },
   {
     "scene_number": 51,
     "heading": "32.INT. HALL. NIGHT.                                     32",
     "location": "HALL. NIGHT.                                     32",
     "time_of_day": "UNKNOWN",
-    "characters": []
+    "characters": [
+      "MALLORY",
+      "NIHARIKA",
+      "AKASH",
+      "KARAN"
+    ]
   },
   {
     "scene_number": 52,
@@ -521,8 +594,11 @@
     "characters": [
       "KARAN",
       "DR. ANJALI",
-      "CUT TO BLACK.",
-      "THE END."
+      "THE END.",
+      "AKASH",
+      "NIHARIKA",
+      "ARYAN",
+      "GUY"
     ]
   }
 ]
