@@ -181,13 +181,13 @@
     "location": "HALL. NIGHT.                                      10",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "AKASH",
       "KARAN",
+      "VEDANT",
+      "AKASH",
+      "ALICIA",
       "MALLORY",
       "ARYAN",
-      "VEDANT",
-      "WREHAN",
-      "ALICIA"
+      "WREHAN"
     ]
   },
   {
@@ -265,11 +265,11 @@
       "ARYAN",
       "RUPAK",
       "VASU",
-      "AKASH",
-      "SUHANI",
       "VEDANT",
       "WREHAN",
-      "ALICIA"
+      "AKASH",
+      "ALICIA",
+      "SUHANI"
     ]
   },
   {
@@ -281,8 +281,8 @@
       "WREHAN",
       "KARAN",
       "NIHARIKA",
-      "ARYAN",
-      "SHUBHAM"
+      "SHUBHAM",
+      "ARYAN"
     ]
   },
   {
@@ -318,8 +318,8 @@
       "SHUBHAM",
       "ALICIA",
       "VASU",
-      "MALLORY",
-      "RUPAK"
+      "RUPAK",
+      "MALLORY"
     ]
   },
   {
@@ -346,9 +346,9 @@
       "SHUBHAM",
       "VASU",
       "KARAN",
-      "NIHARIKA",
       "VEDANT",
       "WREHAN",
+      "NIHARIKA",
       "ALICIA"
     ]
   },
@@ -395,9 +395,9 @@
     "characters": [
       "WREHAN",
       "ALICIA",
+      "SHUBHAM",
       "AKASH",
-      "ARYAN",
-      "SHUBHAM"
+      "ARYAN"
     ]
   },
   {
@@ -523,8 +523,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "FERNANDEZ",
-      "WREHAN",
-      "KARAN"
+      "KARAN",
+      "WREHAN"
     ]
   },
   {
@@ -533,9 +533,9 @@
     "location": "TOILET. NIGHT.                                   29",
     "time_of_day": "UNKNOWN",
     "characters": [
+      "KARAN",
       "NIHARIKA",
-      "FERNANDEZ",
-      "KARAN"
+      "FERNANDEZ"
     ]
   },
   {
@@ -546,8 +546,8 @@
     "characters": [
       "DR. ANJALI",
       "KARAN",
-      "NIHARIKA",
       "FERNANDEZ",
+      "NIHARIKA",
       "GUY"
     ]
   },
@@ -557,10 +557,10 @@
     "location": "KITCHEN. NIGHT                                   30",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "NIHARIKA",
       "AKASH",
-      "ARYAN",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA",
+      "ARYAN"
     ]
   },
   {
@@ -569,9 +569,9 @@
     "location": "ROOM 2. NIGHT.                                   31",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "NIHARIKA",
       "AKASH",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA"
     ]
   },
   {
@@ -580,10 +580,10 @@
     "location": "HALL. NIGHT.                                     32",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "MALLORY",
-      "NIHARIKA",
       "AKASH",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA",
+      "MALLORY"
     ]
   },
   {
@@ -595,8 +595,8 @@
       "KARAN",
       "DR. ANJALI",
       "THE END.",
-      "AKASH",
       "NIHARIKA",
+      "AKASH",
       "ARYAN",
       "GUY"
     ]

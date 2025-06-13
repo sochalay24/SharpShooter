@@ -1,0 +1,20 @@
+{
+  "actors": [
+    "KARAN",
+    "VEDANT",
+    "NIHARIKA",
+    "AKASH",
+    "ALICIA",
+    "MALLORY",
+    "ARYAN",
+    "SUHANI",
+    "WREHAN"
+  ],
+  "scenes": [
+    "10.INT. HALL. NIGHT.                                      10",
+    "10A.INT. HALL. NIGHT.                                    10A",
+    "11.INT. KITCHEN. NIGHT                                    11",
+    "12.INT. HALL OR KITCHEN. NIGHT.                           12",
+    "13.INT. HALL. NIGHT                                       13"
+  ]
+}

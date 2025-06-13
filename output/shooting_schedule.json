@@ -97,8 +97,8 @@
     "characters": [
       "DR. ANJALI",
       "KARAN",
-      "NIHARIKA",
       "FERNANDEZ",
+      "NIHARIKA",
       "GUY"
     ],
     "estimated_duration": "2 hour(s)"
@@ -126,8 +126,8 @@
       "KARAN",
       "DR. ANJALI",
       "THE END.",
-      "AKASH",
       "NIHARIKA",
+      "AKASH",
       "ARYAN",
       "GUY"
     ],
@@ -250,13 +250,13 @@
     "location": "HALL. NIGHT.                                      10",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "AKASH",
       "KARAN",
+      "VEDANT",
+      "AKASH",
+      "ALICIA",
       "MALLORY",
       "ARYAN",
-      "VEDANT",
-      "WREHAN",
-      "ALICIA"
+      "WREHAN"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -344,8 +344,8 @@
       "WREHAN",
       "KARAN",
       "NIHARIKA",
-      "ARYAN",
-      "SHUBHAM"
+      "SHUBHAM",
+      "ARYAN"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -361,11 +361,11 @@
       "ARYAN",
       "RUPAK",
       "VASU",
-      "AKASH",
-      "SUHANI",
       "VEDANT",
       "WREHAN",
-      "ALICIA"
+      "AKASH",
+      "ALICIA",
+      "SUHANI"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -407,8 +407,8 @@
       "SHUBHAM",
       "ALICIA",
       "VASU",
-      "MALLORY",
-      "RUPAK"
+      "RUPAK",
+      "MALLORY"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -439,9 +439,9 @@
       "SHUBHAM",
       "VASU",
       "KARAN",
-      "NIHARIKA",
       "VEDANT",
       "WREHAN",
+      "NIHARIKA",
       "ALICIA"
     ],
     "estimated_duration": "2 hour(s)"
@@ -508,9 +508,9 @@
     "characters": [
       "WREHAN",
       "ALICIA",
+      "SHUBHAM",
       "AKASH",
-      "ARYAN",
-      "SHUBHAM"
+      "ARYAN"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -635,8 +635,8 @@
     "time_of_day": "UNKNOWN",
     "characters": [
       "FERNANDEZ",
-      "WREHAN",
-      "KARAN"
+      "KARAN",
+      "WREHAN"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -658,9 +658,9 @@
     "location": "TOILET. NIGHT.                                   29",
     "time_of_day": "UNKNOWN",
     "characters": [
+      "KARAN",
       "NIHARIKA",
-      "FERNANDEZ",
-      "KARAN"
+      "FERNANDEZ"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -671,10 +671,10 @@
     "location": "KITCHEN. NIGHT                                   30",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "NIHARIKA",
       "AKASH",
-      "ARYAN",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA",
+      "ARYAN"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -685,9 +685,9 @@
     "location": "ROOM 2. NIGHT.                                   31",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "NIHARIKA",
       "AKASH",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA"
     ],
     "estimated_duration": "2 hour(s)"
   },
@@ -698,10 +698,10 @@
     "location": "HALL. NIGHT.                                     32",
     "time_of_day": "UNKNOWN",
     "characters": [
-      "MALLORY",
-      "NIHARIKA",
       "AKASH",
-      "KARAN"
+      "KARAN",
+      "NIHARIKA",
+      "MALLORY"
     ],
     "estimated_duration": "2 hour(s)"
   }
