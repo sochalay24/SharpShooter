@@ -2,7 +2,7 @@
 import spacy
 import re
 
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm", "hi_core_web_sm")
 
 def extract_entities(text):
     doc = nlp(text)
@@ -10,8 +10,7 @@ def extract_entities(text):
     return list(set(props))
 
 def extract_known_characters_from_actions(action_lines, known_characters):
-    """
-    Return a list of known character names that appear in the action lines.
+    """ list of known character names that appear in the action lines.
     """
     text = " ".join(action_lines).upper()
     found = []

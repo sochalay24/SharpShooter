@@ -13,7 +13,7 @@ def extract_text_from_pdf(pdf_path):
 
 # Usage Example
 if __name__ == "__main__":
-    pdf_path = "LM.pdf"  # Replace with the correct path if needed
+    pdf_path = "Tumbbad-Script.pdf"
     text = extract_text_from_pdf(pdf_path)
     with open("output/raw_script.txt", "w", encoding="utf-8") as f:
         f.write(text)

@@ -9,7 +9,7 @@ from script_utils.parser import parse_screenplay
 from script_utils.scheduler import generate_schedule
 
 # 1. Extract text from screenplay PDF
-pdf_path = "data/LM.pdf"  # Make sure LM.pdf is inside the /data/ folder
+pdf_path = "data/Tumbbad-Script.pdf"  # Make sure LM.pdf is inside the /data/ folder
 script_text = extract_text_from_pdf(pdf_path)
 
 # 2. Parse scenes from the script text
