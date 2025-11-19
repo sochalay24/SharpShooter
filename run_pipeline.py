@@ -8,8 +8,25 @@ from script_utils.pdf_extractor import extract_text_from_pdf
 from script_utils.parser import parse_screenplay
 from script_utils.scheduler import generate_schedule
 
+def get_screenplay_pdf_path(data_dir="data"):
+    """Return the most recently modified PDF inside the data directory."""
+    pdf_candidates = [
+        os.path.join(data_dir, file_name)
+        for file_name in os.listdir(data_dir)
+        if file_name.lower().endswith(".pdf")
+    ]
+
+    if not pdf_candidates:
+        raise FileNotFoundError(
+            f"No PDF files found in '{data_dir}'. Please add a screenplay PDF."
+        )
+
+    pdf_candidates.sort(key=lambda path: os.path.getmtime(path), reverse=True)
+    return pdf_candidates[0]
+
+
 # 1. Extract text from screenplay PDF
-pdf_path = "data/Tumbbad-Script.pdf"  # Make sure LM.pdf is inside the /data/ folder
+pdf_path = get_screenplay_pdf_path()
 script_text = extract_text_from_pdf(pdf_path)
 
 # 2. Parse scenes from the script text
