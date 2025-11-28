@@ -1,0 +1,23 @@
+{
+  "actors": [
+    "VASU",
+    "MALLORY",
+    "ALICIA",
+    "ARYAN",
+    "AKASH",
+    "RUPAK",
+    "WREHAN",
+    "SHUBHAM",
+    "VEDANT",
+    "SUHANI",
+    "KARAN"
+  ],
+  "scenes": [
+    "12.INT. HALL OR KITCHEN. NIGHT. 12",
+    "13.INT. HALL. NIGHT 13",
+    "14.EXT. TOP TERRACE. NIGHT 14",
+    "15.INT. HALL. NIGHT 15",
+    "15A.INT. HALL OTHER PART. NIGHT 15A",
+    "15B.INT. HALL. NIGHT. 15B"
+  ]
+}
